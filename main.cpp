@@ -2,7 +2,6 @@
 #include <string>
 #include "locuinta.h"
 #include "locuinta.cpp"
-#include <typeinfo>
 
 void Optiuni()
 {
